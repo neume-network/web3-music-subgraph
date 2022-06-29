@@ -12,7 +12,7 @@ This is a subgraph that aggregates various web3 music platforms. The goal is to 
 - Install and run a [graph-node](https://github.com/graphprotocol/graph-node#quick-start)
 
 ```bash
-git clone https://github.com/spinamp/web3-music-subgraph.git
+git clone https://github.com/neume-network/web3-music-subgraph.git
 yarn
 yarn build
 yarn create-local

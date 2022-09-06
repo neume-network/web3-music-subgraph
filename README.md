@@ -1,3 +1,5 @@
+Deprecation note: Instead of using web3-music-subgraph to crawl all music NFT IDs, we're now using neume-network's call-block-logs strategy directly.
+
 # web3-music-subgraph
 
 This is a fork of Spinamp's web3-music-subgraph that aggregates various web3 music platforms. The goal is to aggregate all web3 music into a single, highly normalized and queryable schema. 
